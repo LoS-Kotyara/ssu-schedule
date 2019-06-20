@@ -1,3 +1,7 @@
 {
-  "BOT_TOKEN": "700477231:AAECHTCXJ1WkValWVPGQ8DtCEni5EMYq5jo"
+  "BOT_TOKEN": "",
+  "host" : "",
+  "port" : "",
+  "login" : "",
+  "psswd" : ""
 }

@@ -6,9 +6,9 @@ const Markup = require('../node_modules/telegraf/markup');              // На�
 const { readFacultiesList, readFacultyForms, readFormGroupTypes, readCourses, readGroups } = require('../helpers/getFacultyData');
 const { read } = require("../helpers/read");
 
-const weekdays = new Array(['Воскресенье'],
+const weekdays = [['Воскресенье'],
     ['Понедельник'], ['Вторник'], ['Среда'],
-    ['Четверг'], ['Пятница'], ['Суббота']);
+    ['Четверг'], ['Пятница'], ['Суббота']];
 let date = new Date();
 
 const student = new WizardScene(
@@ -130,7 +130,6 @@ const student = new WizardScene(
         return ctx.wizard.next();
     },
 
-    // Выбор группы
     async (ctx) => {
         ctx.wizard.state.group = ctx.message.text;
 
@@ -146,9 +145,40 @@ const student = new WizardScene(
         }
 
         await ctx.reply('Вы выбрали"' + ctx.wizard.state.group + '"', Markup.removeKeyboard(true).oneTime().resize().extra());
+
+        ctx.reply('Вам нужно расписание на сегодня или на конкретный день?', Markup.keyboard(["На сегодня", "На конкретный день", "Назад"]).resize().extra());
+
+        return ctx.wizard.next();
+    },
+
+    async (ctx) => {
+
+        ctx.wizard.state.dayAns = ctx.message.text;
+
+        if (ctx.wizard.state.dayAns === "Назад") {
+            ctx.reply('Вы выбрали "Назад"');
+            ctx.reply('Выберите группу', Markup.keyboard(ctx.wizard.state.groups).resize().extra());
+            return ctx.wizard.back();
+        }
+
+        if (ctx.wizard.state.dayAns !== "На сегодня" && ctx.wizard.state.dayAns !== "На конкретный день") {
+            ctx.reply("Вы ввели неверное значение, выход из меню выбора", Markup.removeKeyboard(true).oneTime().resize().extra());
+            return ctx.scene.enter('def');
+        }
+        let weekday = null;
+        await ctx.reply('Вы выбрали"' + ctx.wizard.state.dayAns + '"', Markup.removeKeyboard(true).oneTime().resize().extra());
+        if (ctx.wizard.state.dayAns == "На сегодня") { weekday = weekdays[date.getDay()][0]; }
+        else {
+            ctx.wizard.state.variables = weekdays.slice(1).concat([["Назад"]]);
+            console.log(ctx.wizard.state.variables)
+            ctx.reply('На какой день недели Вам нужно расписание', Markup.keyboard(ctx.wizard.state.variables).resize().extra());
+            return ctx.wizard.selectStep(8);
+        }
+
+
         await ctx.reply("Пожалуйста, подождите, пока данные обрабатываются\nВозможен неправильный порядок пар");
 
-        let weekday = weekdays[date.getDay()][0];
+
 
         if (weekday !== "Воскресенье") {
             await ctx.reply("Вывод пар на " + weekday);
@@ -192,6 +222,45 @@ const student = new WizardScene(
             return ctx.wizard.selectStep(1);
         }
         else return ctx.scene.enter('def');
+    },
+
+    async (ctx) => {
+        ctx.wizard.state.weekday = ctx.message.text;
+        console.log("im here")
+        if (ctx.wizard.state.weekday === "Назад") {
+            ctx.reply('Вы выбрали "Назад"');
+            ctx.reply('Выберите группу', Markup.keyboard(ctx.wizard.state.groups).resize().extra());
+            return ctx.wizard.selectStep(5);
+        }
+
+        let temp = weekdays.reduce((acc, val) => acc.concat(val), []);
+        if (temp.indexOf(ctx.wizard.state.weekday) == -1) {
+            ctx.reply("Вы ввели неверное значение, выход из меню выбора", Markup.removeKeyboard(true).oneTime().resize().extra());
+            return ctx.scene.enter('def');
+        }
+        let weekday = ctx.wizard.state.weekday;
+        await ctx.reply('Вы выбрали"' + ctx.wizard.state.weekday + '"', Markup.removeKeyboard(true).oneTime().resize().extra());
+
+        await ctx.reply("Пожалуйста, подождите, пока данные обрабатываются\nВозможен неправильный порядок пар");
+
+
+        await ctx.reply("Вывод пар на " + weekday);
+        await read(ctx.wizard.state.paths[ctx.wizard.state.groups.indexOf(ctx.wizard.state.group)], weekday, (err, res) => {
+            if (res === "Сегодня пар нет" || res.length === 0) ctx.reply("Сегодня пар нет");
+
+            else
+                for (let index = 0; index < res.length; index++) {
+                    const element = res[index];
+                    ctx.replyWithHTML(element);
+                }
+        });
+
+
+        setTimeout(() => {
+            ctx.reply("Выбрать другую группу?", Markup.keyboard(['Да', 'Нет']).oneTime().resize().extra());
+        }, 10000);
+
+        return ctx.wizard.selectStep(7);
     }
 );
 
