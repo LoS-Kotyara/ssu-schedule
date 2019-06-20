@@ -1,0 +1,138 @@
+[
+  {
+    "form": "Дневная форма обучения",
+    "group_types": [
+      {
+        "group_type": "3 курс:",
+        "courses": [
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "10301(ЗО-31)",
+                  "15301(КСК-31)",
+                  "2301(ТМ-31)",
+                  "3301(ПКС-31)",
+                  "3302(ПКС-32)",
+                  "3303(ПКС-33)",
+                  "4301(ЭО-31)",
+                  "4302(ЭО-32)",
+                  "7301(РТ-31)",
+                  "9301(ЭП-31)"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/cre/do/10301%28ZO-31%29",
+                  "https://www.sgu.ru/schedule/cre/do/15301",
+                  "https://www.sgu.ru/schedule/cre/do/2301",
+                  "https://www.sgu.ru/schedule/cre/do/3301",
+                  "https://www.sgu.ru/schedule/cre/do/3302%28PKS-32%29",
+                  "https://www.sgu.ru/schedule/cre/do/3303%28PKS-33%29",
+                  "https://www.sgu.ru/schedule/cre/do/4301",
+                  "https://www.sgu.ru/schedule/cre/do/4302",
+                  "https://www.sgu.ru/schedule/cre/do/7301",
+                  "https://www.sgu.ru/schedule/cre/do/9301%28EP-31%29"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "15201(КСК-21)",
+                  "2201(ТМ-21)",
+                  "3201(ПКС-21)",
+                  "4201(ЭО-21)",
+                  "4202(ЭО-22)",
+                  "7201(РТ-21)",
+                  "9206(ССА-21)",
+                  "9207(ИСП-21)"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/cre/do/15201",
+                  "https://www.sgu.ru/schedule/cre/do/2201",
+                  "https://www.sgu.ru/schedule/cre/do/3201",
+                  "https://www.sgu.ru/schedule/cre/do/4201",
+                  "https://www.sgu.ru/schedule/cre/do/4202%28EO-22%29",
+                  "https://www.sgu.ru/schedule/cre/do/7201",
+                  "https://www.sgu.ru/schedule/cre/do/9206%28SSA-21%29",
+                  "https://www.sgu.ru/schedule/cre/do/9207%28ISP-21%29"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "15401(КСК-41)",
+                  "15402(КСК-42)",
+                  "2401(ТМ-41)",
+                  "3401(ПКС-41)",
+                  "3402(ПКС-42)",
+                  "4401(ЭО-41)",
+                  "4402(ЭО-42)",
+                  "7401(РТ-41)"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/cre/do/15401%28KSK-41%29",
+                  "https://www.sgu.ru/schedule/cre/do/15402%28KSK-42%29",
+                  "https://www.sgu.ru/schedule/cre/do/2401%28TM-41%29",
+                  "https://www.sgu.ru/schedule/cre/do/3401%28PKS-41%29",
+                  "https://www.sgu.ru/schedule/cre/do/3402%28PKS-42%29",
+                  "https://www.sgu.ru/schedule/cre/do/4401%28EO-41%29",
+                  "https://www.sgu.ru/schedule/cre/do/4402%28EO-42%29",
+                  "https://www.sgu.ru/schedule/cre/do/7401%28RT-41%29"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "3101(ПКС-11)",
+                  "4101(ЭО-11)",
+                  "6101(МТО-11)",
+                  "7101(РТ-11)",
+                  "9101(ЭП-11)",
+                  "9106(ССА-11)",
+                  "9107(ИСП-11)"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/cre/do/3101",
+                  "https://www.sgu.ru/schedule/cre/do/4101",
+                  "https://www.sgu.ru/schedule/cre/do/6101%28MTO-11%29",
+                  "https://www.sgu.ru/schedule/cre/do/7101",
+                  "https://www.sgu.ru/schedule/cre/do/9101%28EP-11%29",
+                  "https://www.sgu.ru/schedule/cre/do/9106%28SSA-11%29",
+                  "https://www.sgu.ru/schedule/cre/do/9107"
+                ]
+              }
+            ]
+          },
+          {
+            "groups": [
+              {
+                "number": [
+                  "91062(ССА-12)",
+                  "91072(ИСП-12)",
+                  "91073(ИСП-13)"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/cre/do/91062%28SSA-12%29",
+                  "https://www.sgu.ru/schedule/cre/do/91072%28ISP-12%29",
+                  "https://www.sgu.ru/schedule/cre/do/91073%28ISP-13%29"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Биологический факультет",
+    "path": "https://www.sgu.ru/schedule/bf"
+  },
+  {
+    "name": "Географический факультет",
+    "path": "https://www.sgu.ru/schedule/gf"
+  },
+  {
+    "name": "Геологический факультет",
+    "path": "https://www.sgu.ru/schedule/gl"
+  },
+  {
+    "name": "Институт дополнительного профессионального образования",
+    "path": "https://www.sgu.ru/schedule/idpo"
+  },
+  {
+    "name": "Институт искусств",
+    "path": "https://www.sgu.ru/schedule/ii"
+  },
+  {
+    "name": "Институт истории и международных отношений",
+    "path": "https://www.sgu.ru/schedule/imo"
+  },
+  {
+    "name": "Институт физической культуры и спорта",
+    "path": "https://www.sgu.ru/schedule/ifk"
+  },
+  {
+    "name": "Институт филологии и журналистики",
+    "path": "https://www.sgu.ru/schedule/ifg"
+  },
+  {
+    "name": "Институт химии",
+    "path": "https://www.sgu.ru/schedule/ih"
+  },
+  {
+    "name": "Механико-математический факультет",
+    "path": "https://www.sgu.ru/schedule/mm"
+  },
+  {
+    "name": "Социологический факультет",
+    "path": "https://www.sgu.ru/schedule/sf"
+  },
+  {
+    "name": "Факультет иностранных языков и лингводидактики",
+    "path": "https://www.sgu.ru/schedule/fi"
+  },
+  {
+    "name": "Факультет компьютерных наук и информационных технологий",
+    "path": "https://www.sgu.ru/schedule/knt"
+  },
+  {
+    "name": "Факультет нано- и биомедицинских технологий",
+    "path": "https://www.sgu.ru/schedule/fn"
+  },
+  {
+    "name": "Факультет нелинейных процессов",
+    "path": "https://www.sgu.ru/schedule/fnp"
+  },
+  {
+    "name": "Факультет психологии",
+    "path": "https://www.sgu.ru/schedule/fps"
+  },
+  {
+    "name": "Факультет психолого-педагогического и специального образования",
+    "path": "https://www.sgu.ru/schedule/fppso"
+  },
+  {
+    "name": "Физический факультет",
+    "path": "https://www.sgu.ru/schedule/ff"
+  },
+  {
+    "name": "Философский факультет",
+    "path": "https://www.sgu.ru/schedule/fp"
+  },
+  {
+    "name": "Экономический факультет",
+    "path": "https://www.sgu.ru/schedule/ef"
+  },
+  {
+    "name": "Юридический факультет",
+    "path": "https://www.sgu.ru/schedule/uf"
+  },
+  {
+    "name": "Геологический колледж",
+    "path": "https://www.sgu.ru/schedule/kgl"
+  },
+  {
+    "name": "Колледж радиоэлектроники им. П.Н. Яблочкова",
+    "path": "https://www.sgu.ru/schedule/cre"
+  }
+]

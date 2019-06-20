@@ -1,0 +1,116 @@
+[
+  {
+    "form": "Заочная форма обучения",
+    "group_types": [
+      {
+        "group_type": "Бакалавриат",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "111",
+                  "121"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/idpo/zo/111",
+                  "https://www.sgu.ru/schedule/idpo/zo/121"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "211",
+                  "221"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/idpo/zo/211",
+                  "https://www.sgu.ru/schedule/idpo/zo/221"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "311",
+                  "321"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/idpo/zo/311",
+                  "https://www.sgu.ru/schedule/idpo/zo/321"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "411",
+                  "421"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/idpo/zo/411",
+                  "https://www.sgu.ru/schedule/idpo/zo/421"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Магистратура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "131"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/idpo/zo/131"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "231"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/idpo/zo/231"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "331"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/idpo/zo/331"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

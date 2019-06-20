@@ -1,0 +1,823 @@
+[
+  {
+    "form": "Дневная форма обучения",
+    "group_types": [
+      {
+        "group_type": "5 курс:",
+        "courses": [
+          {
+            "course": "5 курс:",
+            "groups": [
+              {
+                "number": [
+                  "514"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/do/514"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Бакалавриат",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "101",
+                  "111",
+                  "112",
+                  "121",
+                  "131",
+                  "141",
+                  "151",
+                  "161",
+                  "171",
+                  "191"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/do/101",
+                  "https://www.sgu.ru/schedule/fppso/do/111",
+                  "https://www.sgu.ru/schedule/fppso/do/112",
+                  "https://www.sgu.ru/schedule/fppso/do/121",
+                  "https://www.sgu.ru/schedule/fppso/do/131",
+                  "https://www.sgu.ru/schedule/fppso/do/141",
+                  "https://www.sgu.ru/schedule/fppso/do/151",
+                  "https://www.sgu.ru/schedule/fppso/do/161",
+                  "https://www.sgu.ru/schedule/fppso/do/171",
+                  "https://www.sgu.ru/schedule/fppso/do/191"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "201",
+                  "211",
+                  "212",
+                  "221",
+                  "231",
+                  "241",
+                  "251",
+                  "261",
+                  "271",
+                  "291"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/do/201",
+                  "https://www.sgu.ru/schedule/fppso/do/211",
+                  "https://www.sgu.ru/schedule/fppso/do/212",
+                  "https://www.sgu.ru/schedule/fppso/do/221",
+                  "https://www.sgu.ru/schedule/fppso/do/231",
+                  "https://www.sgu.ru/schedule/fppso/do/241",
+                  "https://www.sgu.ru/schedule/fppso/do/251",
+                  "https://www.sgu.ru/schedule/fppso/do/261",
+                  "https://www.sgu.ru/schedule/fppso/do/271",
+                  "https://www.sgu.ru/schedule/fppso/do/291"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "301",
+                  "311",
+                  "312",
+                  "321",
+                  "331",
+                  "341",
+                  "361",
+                  "371",
+                  "391"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/do/301",
+                  "https://www.sgu.ru/schedule/fppso/do/311",
+                  "https://www.sgu.ru/schedule/fppso/do/312",
+                  "https://www.sgu.ru/schedule/fppso/do/321",
+                  "https://www.sgu.ru/schedule/fppso/do/331",
+                  "https://www.sgu.ru/schedule/fppso/do/341",
+                  "https://www.sgu.ru/schedule/fppso/do/361",
+                  "https://www.sgu.ru/schedule/fppso/do/371",
+                  "https://www.sgu.ru/schedule/fppso/do/391"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "401",
+                  "411",
+                  "412",
+                  "421",
+                  "431",
+                  "441",
+                  "461",
+                  "471",
+                  "491"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/do/401",
+                  "https://www.sgu.ru/schedule/fppso/do/411",
+                  "https://www.sgu.ru/schedule/fppso/do/412",
+                  "https://www.sgu.ru/schedule/fppso/do/421",
+                  "https://www.sgu.ru/schedule/fppso/do/431",
+                  "https://www.sgu.ru/schedule/fppso/do/441",
+                  "https://www.sgu.ru/schedule/fppso/do/461",
+                  "https://www.sgu.ru/schedule/fppso/do/471",
+                  "https://www.sgu.ru/schedule/fppso/do/491"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Магистратура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "102",
+                  "114",
+                  "122",
+                  "132",
+                  "144",
+                  "162",
+                  "172",
+                  "192",
+                  "193"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/do/102",
+                  "https://www.sgu.ru/schedule/fppso/do/114",
+                  "https://www.sgu.ru/schedule/fppso/do/122",
+                  "https://www.sgu.ru/schedule/fppso/do/132",
+                  "https://www.sgu.ru/schedule/fppso/do/144",
+                  "https://www.sgu.ru/schedule/fppso/do/162",
+                  "https://www.sgu.ru/schedule/fppso/do/172",
+                  "https://www.sgu.ru/schedule/fppso/do/192",
+                  "https://www.sgu.ru/schedule/fppso/do/193"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "214",
+                  "222",
+                  "232",
+                  "243",
+                  "244",
+                  "262",
+                  "272",
+                  "292"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/do/214",
+                  "https://www.sgu.ru/schedule/fppso/do/222",
+                  "https://www.sgu.ru/schedule/fppso/do/232",
+                  "https://www.sgu.ru/schedule/fppso/do/243",
+                  "https://www.sgu.ru/schedule/fppso/do/244",
+                  "https://www.sgu.ru/schedule/fppso/do/262",
+                  "https://www.sgu.ru/schedule/fppso/do/272",
+                  "https://www.sgu.ru/schedule/fppso/do/292"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Аспирантура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "113.00.01",
+                  "113.00.08",
+                  "119.00.07"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/do/113.00.01",
+                  "https://www.sgu.ru/schedule/fppso/do/113.00.08",
+                  "https://www.sgu.ru/schedule/fppso/do/119.00.07"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "213.00.01",
+                  "213.00.08",
+                  "219.00.07"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/do/213.00.01",
+                  "https://www.sgu.ru/schedule/fppso/do/213.00.08",
+                  "https://www.sgu.ru/schedule/fppso/do/219.00.07"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "313.00.01",
+                  "313.00.08",
+                  "319.00.07"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/do/313.00.01",
+                  "https://www.sgu.ru/schedule/fppso/do/313.00.08",
+                  "https://www.sgu.ru/schedule/fppso/do/319.00.07"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "form": "Заочная форма обучения",
+    "group_types": [
+      {
+        "group_type": "1 курс:",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "116 бакалавриат"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/116%20bakalavriat"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Специалитет",
+        "courses": [
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "333",
+                  "337",
+                  "347",
+                  "352",
+                  "367",
+                  "382"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/333",
+                  "https://www.sgu.ru/schedule/fppso/zo/337",
+                  "https://www.sgu.ru/schedule/fppso/zo/347",
+                  "https://www.sgu.ru/schedule/fppso/zo/352",
+                  "https://www.sgu.ru/schedule/fppso/zo/367",
+                  "https://www.sgu.ru/schedule/fppso/zo/382"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "414",
+                  "424",
+                  "432",
+                  "433",
+                  "437",
+                  "442",
+                  "443",
+                  "444",
+                  "445",
+                  "462",
+                  "463",
+                  "464",
+                  "465",
+                  "467",
+                  "472",
+                  "474",
+                  "482"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/414",
+                  "https://www.sgu.ru/schedule/fppso/zo/424",
+                  "https://www.sgu.ru/schedule/fppso/zo/432",
+                  "https://www.sgu.ru/schedule/fppso/zo/433",
+                  "https://www.sgu.ru/schedule/fppso/zo/437",
+                  "https://www.sgu.ru/schedule/fppso/zo/442",
+                  "https://www.sgu.ru/schedule/fppso/zo/443",
+                  "https://www.sgu.ru/schedule/fppso/zo/444",
+                  "https://www.sgu.ru/schedule/fppso/zo/445",
+                  "https://www.sgu.ru/schedule/fppso/zo/462",
+                  "https://www.sgu.ru/schedule/fppso/zo/463",
+                  "https://www.sgu.ru/schedule/fppso/zo/464",
+                  "https://www.sgu.ru/schedule/fppso/zo/465",
+                  "https://www.sgu.ru/schedule/fppso/zo/467",
+                  "https://www.sgu.ru/schedule/fppso/zo/472",
+                  "https://www.sgu.ru/schedule/fppso/zo/474",
+                  "https://www.sgu.ru/schedule/fppso/zo/482"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "5 курс:",
+            "groups": [
+              {
+                "number": [
+                  "501",
+                  "532",
+                  "534",
+                  "542",
+                  "545",
+                  "551",
+                  "562",
+                  "563",
+                  "565",
+                  "566"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/501",
+                  "https://www.sgu.ru/schedule/fppso/zo/532",
+                  "https://www.sgu.ru/schedule/fppso/zo/534",
+                  "https://www.sgu.ru/schedule/fppso/zo/542",
+                  "https://www.sgu.ru/schedule/fppso/zo/545",
+                  "https://www.sgu.ru/schedule/fppso/zo/551",
+                  "https://www.sgu.ru/schedule/fppso/zo/562",
+                  "https://www.sgu.ru/schedule/fppso/zo/563",
+                  "https://www.sgu.ru/schedule/fppso/zo/565",
+                  "https://www.sgu.ru/schedule/fppso/zo/566"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Бакалавриат",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "101",
+                  "111",
+                  "112",
+                  "113",
+                  "114",
+                  "121",
+                  "122",
+                  "123",
+                  "131",
+                  "132",
+                  "141",
+                  "142",
+                  "161",
+                  "171",
+                  "172",
+                  "173",
+                  "174",
+                  "175",
+                  "181",
+                  "191"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/101",
+                  "https://www.sgu.ru/schedule/fppso/zo/111",
+                  "https://www.sgu.ru/schedule/fppso/zo/112",
+                  "https://www.sgu.ru/schedule/fppso/zo/113",
+                  "https://www.sgu.ru/schedule/fppso/zo/114",
+                  "https://www.sgu.ru/schedule/fppso/zo/121",
+                  "https://www.sgu.ru/schedule/fppso/zo/122",
+                  "https://www.sgu.ru/schedule/fppso/zo/123",
+                  "https://www.sgu.ru/schedule/fppso/zo/131",
+                  "https://www.sgu.ru/schedule/fppso/zo/132",
+                  "https://www.sgu.ru/schedule/fppso/zo/141",
+                  "https://www.sgu.ru/schedule/fppso/zo/142",
+                  "https://www.sgu.ru/schedule/fppso/zo/161",
+                  "https://www.sgu.ru/schedule/fppso/zo/171",
+                  "https://www.sgu.ru/schedule/fppso/zo/172",
+                  "https://www.sgu.ru/schedule/fppso/zo/173",
+                  "https://www.sgu.ru/schedule/fppso/zo/174",
+                  "https://www.sgu.ru/schedule/fppso/zo/175",
+                  "https://www.sgu.ru/schedule/fppso/zo/181",
+                  "https://www.sgu.ru/schedule/fppso/zo/191"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "201",
+                  "202",
+                  "203",
+                  "211",
+                  "212",
+                  "213",
+                  "214",
+                  "215",
+                  "216",
+                  "217",
+                  "221",
+                  "222",
+                  "223",
+                  "224",
+                  "225",
+                  "226",
+                  "227",
+                  "228",
+                  "231",
+                  "232",
+                  "241",
+                  "242",
+                  "243",
+                  "244",
+                  "261",
+                  "271",
+                  "272",
+                  "273",
+                  "274",
+                  "281",
+                  "283",
+                  "283 (5 лет)",
+                  "291"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/201",
+                  "https://www.sgu.ru/schedule/fppso/zo/202",
+                  "https://www.sgu.ru/schedule/fppso/zo/203",
+                  "https://www.sgu.ru/schedule/fppso/zo/211",
+                  "https://www.sgu.ru/schedule/fppso/zo/212",
+                  "https://www.sgu.ru/schedule/fppso/zo/213",
+                  "https://www.sgu.ru/schedule/fppso/zo/214",
+                  "https://www.sgu.ru/schedule/fppso/zo/215",
+                  "https://www.sgu.ru/schedule/fppso/zo/216",
+                  "https://www.sgu.ru/schedule/fppso/zo/217",
+                  "https://www.sgu.ru/schedule/fppso/zo/221",
+                  "https://www.sgu.ru/schedule/fppso/zo/222",
+                  "https://www.sgu.ru/schedule/fppso/zo/223",
+                  "https://www.sgu.ru/schedule/fppso/zo/224",
+                  "https://www.sgu.ru/schedule/fppso/zo/225",
+                  "https://www.sgu.ru/schedule/fppso/zo/226",
+                  "https://www.sgu.ru/schedule/fppso/zo/227",
+                  "https://www.sgu.ru/schedule/fppso/zo/228",
+                  "https://www.sgu.ru/schedule/fppso/zo/231",
+                  "https://www.sgu.ru/schedule/fppso/zo/232",
+                  "https://www.sgu.ru/schedule/fppso/zo/241",
+                  "https://www.sgu.ru/schedule/fppso/zo/242",
+                  "https://www.sgu.ru/schedule/fppso/zo/243",
+                  "https://www.sgu.ru/schedule/fppso/zo/244",
+                  "https://www.sgu.ru/schedule/fppso/zo/261",
+                  "https://www.sgu.ru/schedule/fppso/zo/271",
+                  "https://www.sgu.ru/schedule/fppso/zo/272",
+                  "https://www.sgu.ru/schedule/fppso/zo/273",
+                  "https://www.sgu.ru/schedule/fppso/zo/274",
+                  "https://www.sgu.ru/schedule/fppso/zo/281",
+                  "https://www.sgu.ru/schedule/fppso/zo/283",
+                  "https://www.sgu.ru/schedule/fppso/zo/283%20%285%20let%29",
+                  "https://www.sgu.ru/schedule/fppso/zo/291"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "301",
+                  "302",
+                  "302 (4 года)",
+                  "303",
+                  "306",
+                  "311",
+                  "312",
+                  "313",
+                  "314",
+                  "315",
+                  "316",
+                  "317",
+                  "318",
+                  "321",
+                  "322",
+                  "323",
+                  "324",
+                  "325",
+                  "326",
+                  "327",
+                  "328",
+                  "331",
+                  "332",
+                  "341",
+                  "342",
+                  "343",
+                  "344",
+                  "345",
+                  "346",
+                  "351",
+                  "361",
+                  "362",
+                  "363",
+                  "364",
+                  "371",
+                  "372",
+                  "373",
+                  "374",
+                  "375",
+                  "376",
+                  "377  (4 года)",
+                  "381",
+                  "381 (ВО)",
+                  "383",
+                  "383 (СПО)",
+                  "383 (ВО)",
+                  "384",
+                  "391",
+                  "392",
+                  "393"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/301",
+                  "https://www.sgu.ru/schedule/fppso/zo/302",
+                  "https://www.sgu.ru/schedule/fppso/zo/302%20%284%20goda%29",
+                  "https://www.sgu.ru/schedule/fppso/zo/303",
+                  "https://www.sgu.ru/schedule/fppso/zo/306",
+                  "https://www.sgu.ru/schedule/fppso/zo/311",
+                  "https://www.sgu.ru/schedule/fppso/zo/312",
+                  "https://www.sgu.ru/schedule/fppso/zo/313",
+                  "https://www.sgu.ru/schedule/fppso/zo/314",
+                  "https://www.sgu.ru/schedule/fppso/zo/315",
+                  "https://www.sgu.ru/schedule/fppso/zo/316",
+                  "https://www.sgu.ru/schedule/fppso/zo/317",
+                  "https://www.sgu.ru/schedule/fppso/zo/318",
+                  "https://www.sgu.ru/schedule/fppso/zo/321",
+                  "https://www.sgu.ru/schedule/fppso/zo/322",
+                  "https://www.sgu.ru/schedule/fppso/zo/323",
+                  "https://www.sgu.ru/schedule/fppso/zo/324",
+                  "https://www.sgu.ru/schedule/fppso/zo/325",
+                  "https://www.sgu.ru/schedule/fppso/zo/326",
+                  "https://www.sgu.ru/schedule/fppso/zo/327",
+                  "https://www.sgu.ru/schedule/fppso/zo/328",
+                  "https://www.sgu.ru/schedule/fppso/zo/331",
+                  "https://www.sgu.ru/schedule/fppso/zo/332",
+                  "https://www.sgu.ru/schedule/fppso/zo/341",
+                  "https://www.sgu.ru/schedule/fppso/zo/342",
+                  "https://www.sgu.ru/schedule/fppso/zo/343",
+                  "https://www.sgu.ru/schedule/fppso/zo/344",
+                  "https://www.sgu.ru/schedule/fppso/zo/345",
+                  "https://www.sgu.ru/schedule/fppso/zo/346",
+                  "https://www.sgu.ru/schedule/fppso/zo/351",
+                  "https://www.sgu.ru/schedule/fppso/zo/361",
+                  "https://www.sgu.ru/schedule/fppso/zo/362",
+                  "https://www.sgu.ru/schedule/fppso/zo/363",
+                  "https://www.sgu.ru/schedule/fppso/zo/364",
+                  "https://www.sgu.ru/schedule/fppso/zo/371",
+                  "https://www.sgu.ru/schedule/fppso/zo/372",
+                  "https://www.sgu.ru/schedule/fppso/zo/373",
+                  "https://www.sgu.ru/schedule/fppso/zo/374",
+                  "https://www.sgu.ru/schedule/fppso/zo/375",
+                  "https://www.sgu.ru/schedule/fppso/zo/376",
+                  "https://www.sgu.ru/schedule/fppso/zo/377%20%20%284%20goda%29",
+                  "https://www.sgu.ru/schedule/fppso/zo/381",
+                  "https://www.sgu.ru/schedule/fppso/zo/381%20%28VO%29",
+                  "https://www.sgu.ru/schedule/fppso/zo/383",
+                  "https://www.sgu.ru/schedule/fppso/zo/383%20%28SPO%29",
+                  "https://www.sgu.ru/schedule/fppso/zo/383%20%28VO%29",
+                  "https://www.sgu.ru/schedule/fppso/zo/384",
+                  "https://www.sgu.ru/schedule/fppso/zo/391",
+                  "https://www.sgu.ru/schedule/fppso/zo/392",
+                  "https://www.sgu.ru/schedule/fppso/zo/393"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "401",
+                  "402",
+                  "411",
+                  "412",
+                  "413",
+                  "416",
+                  "421",
+                  "422",
+                  "423",
+                  "431",
+                  "441",
+                  "451",
+                  "454",
+                  "461",
+                  "471",
+                  "477",
+                  "481",
+                  "483",
+                  "491",
+                  "492"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/401",
+                  "https://www.sgu.ru/schedule/fppso/zo/402",
+                  "https://www.sgu.ru/schedule/fppso/zo/411",
+                  "https://www.sgu.ru/schedule/fppso/zo/412",
+                  "https://www.sgu.ru/schedule/fppso/zo/413",
+                  "https://www.sgu.ru/schedule/fppso/zo/416",
+                  "https://www.sgu.ru/schedule/fppso/zo/421",
+                  "https://www.sgu.ru/schedule/fppso/zo/422",
+                  "https://www.sgu.ru/schedule/fppso/zo/423",
+                  "https://www.sgu.ru/schedule/fppso/zo/431",
+                  "https://www.sgu.ru/schedule/fppso/zo/441",
+                  "https://www.sgu.ru/schedule/fppso/zo/451",
+                  "https://www.sgu.ru/schedule/fppso/zo/454",
+                  "https://www.sgu.ru/schedule/fppso/zo/461",
+                  "https://www.sgu.ru/schedule/fppso/zo/471",
+                  "https://www.sgu.ru/schedule/fppso/zo/477",
+                  "https://www.sgu.ru/schedule/fppso/zo/481",
+                  "https://www.sgu.ru/schedule/fppso/zo/483",
+                  "https://www.sgu.ru/schedule/fppso/zo/491",
+                  "https://www.sgu.ru/schedule/fppso/zo/492"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "5 курс:",
+            "groups": [
+              {
+                "number": [
+                  "502",
+                  "504",
+                  "505",
+                  "511",
+                  "512",
+                  "514",
+                  "515",
+                  "516",
+                  "521",
+                  "522",
+                  "526",
+                  "531",
+                  "541",
+                  "561",
+                  "571",
+                  "581",
+                  "583",
+                  "591"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/502",
+                  "https://www.sgu.ru/schedule/fppso/zo/504",
+                  "https://www.sgu.ru/schedule/fppso/zo/505",
+                  "https://www.sgu.ru/schedule/fppso/zo/511",
+                  "https://www.sgu.ru/schedule/fppso/zo/512",
+                  "https://www.sgu.ru/schedule/fppso/zo/514",
+                  "https://www.sgu.ru/schedule/fppso/zo/515",
+                  "https://www.sgu.ru/schedule/fppso/zo/516",
+                  "https://www.sgu.ru/schedule/fppso/zo/521",
+                  "https://www.sgu.ru/schedule/fppso/zo/522",
+                  "https://www.sgu.ru/schedule/fppso/zo/526",
+                  "https://www.sgu.ru/schedule/fppso/zo/531",
+                  "https://www.sgu.ru/schedule/fppso/zo/541",
+                  "https://www.sgu.ru/schedule/fppso/zo/561",
+                  "https://www.sgu.ru/schedule/fppso/zo/571",
+                  "https://www.sgu.ru/schedule/fppso/zo/581",
+                  "https://www.sgu.ru/schedule/fppso/zo/583",
+                  "https://www.sgu.ru/schedule/fppso/zo/591"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Магистратура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "150",
+                  "151",
+                  "152",
+                  "153",
+                  "154",
+                  "155",
+                  "156",
+                  "157",
+                  "158",
+                  "159",
+                  "162",
+                  "163",
+                  "178",
+                  "192",
+                  "193"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/150",
+                  "https://www.sgu.ru/schedule/fppso/zo/151",
+                  "https://www.sgu.ru/schedule/fppso/zo/152",
+                  "https://www.sgu.ru/schedule/fppso/zo/153",
+                  "https://www.sgu.ru/schedule/fppso/zo/154",
+                  "https://www.sgu.ru/schedule/fppso/zo/155",
+                  "https://www.sgu.ru/schedule/fppso/zo/156",
+                  "https://www.sgu.ru/schedule/fppso/zo/157",
+                  "https://www.sgu.ru/schedule/fppso/zo/158",
+                  "https://www.sgu.ru/schedule/fppso/zo/159",
+                  "https://www.sgu.ru/schedule/fppso/zo/162",
+                  "https://www.sgu.ru/schedule/fppso/zo/163",
+                  "https://www.sgu.ru/schedule/fppso/zo/178",
+                  "https://www.sgu.ru/schedule/fppso/zo/192",
+                  "https://www.sgu.ru/schedule/fppso/zo/193"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "250",
+                  "251",
+                  "252",
+                  "253",
+                  "254",
+                  "255",
+                  "256",
+                  "257",
+                  "258",
+                  "259",
+                  "262",
+                  "263",
+                  "278",
+                  "292",
+                  "293"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fppso/zo/250",
+                  "https://www.sgu.ru/schedule/fppso/zo/251",
+                  "https://www.sgu.ru/schedule/fppso/zo/252",
+                  "https://www.sgu.ru/schedule/fppso/zo/253",
+                  "https://www.sgu.ru/schedule/fppso/zo/254",
+                  "https://www.sgu.ru/schedule/fppso/zo/255",
+                  "https://www.sgu.ru/schedule/fppso/zo/256",
+                  "https://www.sgu.ru/schedule/fppso/zo/257",
+                  "https://www.sgu.ru/schedule/fppso/zo/258",
+                  "https://www.sgu.ru/schedule/fppso/zo/259",
+                  "https://www.sgu.ru/schedule/fppso/zo/262",
+                  "https://www.sgu.ru/schedule/fppso/zo/263",
+                  "https://www.sgu.ru/schedule/fppso/zo/278",
+                  "https://www.sgu.ru/schedule/fppso/zo/292",
+                  "https://www.sgu.ru/schedule/fppso/zo/293"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

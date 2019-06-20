@@ -1,0 +1,136 @@
+[
+  {
+    "form": "Дневная форма обучения",
+    "group_types": [
+      {
+        "group_type": "Бакалавриат",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "111",
+                  "121",
+                  "131"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fnp/do/111",
+                  "https://www.sgu.ru/schedule/fnp/do/121",
+                  "https://www.sgu.ru/schedule/fnp/do/131"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "211",
+                  "221",
+                  "231"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fnp/do/211",
+                  "https://www.sgu.ru/schedule/fnp/do/221",
+                  "https://www.sgu.ru/schedule/fnp/do/231"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "311",
+                  "321",
+                  "331"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fnp/do/311",
+                  "https://www.sgu.ru/schedule/fnp/do/321",
+                  "https://www.sgu.ru/schedule/fnp/do/331"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "411",
+                  "421",
+                  "431"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fnp/do/411",
+                  "https://www.sgu.ru/schedule/fnp/do/421",
+                  "https://www.sgu.ru/schedule/fnp/do/431"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Магистратура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "114",
+                  "125",
+                  "135"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fnp/do/114",
+                  "https://www.sgu.ru/schedule/fnp/do/125",
+                  "https://www.sgu.ru/schedule/fnp/do/135"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "214",
+                  "225"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fnp/do/214",
+                  "https://www.sgu.ru/schedule/fnp/do/225"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Аспирантура",
+        "courses": [
+          {
+            "groups": [
+              {
+                "number": [
+                  "1",
+                  "2"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fnp/do/1",
+                  "https://www.sgu.ru/schedule/fnp/do/2"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

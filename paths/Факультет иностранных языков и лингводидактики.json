@@ -1,0 +1,223 @@
+[
+  {
+    "form": "Дневная форма обучения",
+    "group_types": [
+      {
+        "group_type": "Бакалавриат",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "111(1)",
+                  "111(2)",
+                  "112",
+                  "113(1)",
+                  "113(2)",
+                  "114(1)",
+                  "114(2)",
+                  "115(1)",
+                  "115(2)",
+                  "116(1)",
+                  "116(2)",
+                  "117",
+                  "121"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fi/do/111%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/111%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/112",
+                  "https://www.sgu.ru/schedule/fi/do/113%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/113%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/114%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/114%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/115%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/115%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/116%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/116%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/117",
+                  "https://www.sgu.ru/schedule/fi/do/121"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "211 (1)",
+                  "211 (2)",
+                  "212",
+                  "213 (1)",
+                  "213 (2)",
+                  "214 (1)",
+                  "214 (2)",
+                  "215 (1)",
+                  "215 (2)",
+                  "216 (1)",
+                  "216 (2)",
+                  "221"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fi/do/211%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/211%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/212",
+                  "https://www.sgu.ru/schedule/fi/do/213%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/213%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/214%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/214%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/215%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/215%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/216%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/216%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/221"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "311 (1)",
+                  "311 (2)",
+                  "312 (1)",
+                  "312 (2)",
+                  "313 (1)",
+                  "313 (2)",
+                  "314 (1)",
+                  "314 (2)",
+                  "315",
+                  "321",
+                  "371"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fi/do/311%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/311%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/312%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/312%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/313%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/313%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/314%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/314%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/315",
+                  "https://www.sgu.ru/schedule/fi/do/321",
+                  "https://www.sgu.ru/schedule/fi/do/371"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "411 (1)",
+                  "411 (2)",
+                  "412 (1)",
+                  "412 (2)",
+                  "413 (1)",
+                  "413 (2)",
+                  "414 (1)",
+                  "414 (2)",
+                  "421",
+                  "471"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fi/do/411%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/411%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/412%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/412%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/413%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/413%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/414%20%281%29",
+                  "https://www.sgu.ru/schedule/fi/do/414%20%282%29",
+                  "https://www.sgu.ru/schedule/fi/do/421",
+                  "https://www.sgu.ru/schedule/fi/do/471"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Магистратура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "191"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fi/do/191"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "291"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fi/do/291"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "form": "Заочная форма обучения",
+    "group_types": [
+      {
+        "group_type": "Магистратура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "101",
+                  "102",
+                  "103"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fi/zo/101",
+                  "https://www.sgu.ru/schedule/fi/zo/102",
+                  "https://www.sgu.ru/schedule/fi/zo/103"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "201",
+                  "202",
+                  "203"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/fi/zo/201",
+                  "https://www.sgu.ru/schedule/fi/zo/202",
+                  "https://www.sgu.ru/schedule/fi/zo/203"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

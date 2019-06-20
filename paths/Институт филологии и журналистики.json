@@ -1,0 +1,384 @@
+[
+  {
+    "form": "Дневная форма обучения",
+    "group_types": [
+      {
+        "group_type": "Бакалавриат",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "101",
+                  "102",
+                  "103",
+                  "104",
+                  "111",
+                  "112",
+                  "113",
+                  "121",
+                  "122",
+                  "123",
+                  "131",
+                  "132",
+                  "133",
+                  "141",
+                  "142"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/do/101",
+                  "https://www.sgu.ru/schedule/ifg/do/102",
+                  "https://www.sgu.ru/schedule/ifg/do/103",
+                  "https://www.sgu.ru/schedule/ifg/do/104",
+                  "https://www.sgu.ru/schedule/ifg/do/111",
+                  "https://www.sgu.ru/schedule/ifg/do/112",
+                  "https://www.sgu.ru/schedule/ifg/do/113",
+                  "https://www.sgu.ru/schedule/ifg/do/121",
+                  "https://www.sgu.ru/schedule/ifg/do/122",
+                  "https://www.sgu.ru/schedule/ifg/do/123",
+                  "https://www.sgu.ru/schedule/ifg/do/131",
+                  "https://www.sgu.ru/schedule/ifg/do/132",
+                  "https://www.sgu.ru/schedule/ifg/do/133",
+                  "https://www.sgu.ru/schedule/ifg/do/141",
+                  "https://www.sgu.ru/schedule/ifg/do/142"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "201",
+                  "202",
+                  "203",
+                  "204",
+                  "211",
+                  "212",
+                  "213",
+                  "221",
+                  "222",
+                  "223",
+                  "231",
+                  "232",
+                  "233",
+                  "241",
+                  "242"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/do/201",
+                  "https://www.sgu.ru/schedule/ifg/do/202",
+                  "https://www.sgu.ru/schedule/ifg/do/203",
+                  "https://www.sgu.ru/schedule/ifg/do/204",
+                  "https://www.sgu.ru/schedule/ifg/do/211",
+                  "https://www.sgu.ru/schedule/ifg/do/212",
+                  "https://www.sgu.ru/schedule/ifg/do/213",
+                  "https://www.sgu.ru/schedule/ifg/do/221",
+                  "https://www.sgu.ru/schedule/ifg/do/222",
+                  "https://www.sgu.ru/schedule/ifg/do/223",
+                  "https://www.sgu.ru/schedule/ifg/do/231",
+                  "https://www.sgu.ru/schedule/ifg/do/232",
+                  "https://www.sgu.ru/schedule/ifg/do/233",
+                  "https://www.sgu.ru/schedule/ifg/do/241",
+                  "https://www.sgu.ru/schedule/ifg/do/242"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "301",
+                  "302",
+                  "303",
+                  "311",
+                  "312",
+                  "313",
+                  "321",
+                  "322",
+                  "323",
+                  "331",
+                  "332",
+                  "341"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/do/301",
+                  "https://www.sgu.ru/schedule/ifg/do/302",
+                  "https://www.sgu.ru/schedule/ifg/do/303",
+                  "https://www.sgu.ru/schedule/ifg/do/311",
+                  "https://www.sgu.ru/schedule/ifg/do/312",
+                  "https://www.sgu.ru/schedule/ifg/do/313",
+                  "https://www.sgu.ru/schedule/ifg/do/321",
+                  "https://www.sgu.ru/schedule/ifg/do/322",
+                  "https://www.sgu.ru/schedule/ifg/do/323",
+                  "https://www.sgu.ru/schedule/ifg/do/331",
+                  "https://www.sgu.ru/schedule/ifg/do/332",
+                  "https://www.sgu.ru/schedule/ifg/do/341"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "401",
+                  "402",
+                  "404",
+                  "411",
+                  "412",
+                  "421",
+                  "422",
+                  "423",
+                  "431",
+                  "432",
+                  "441"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/do/401",
+                  "https://www.sgu.ru/schedule/ifg/do/402",
+                  "https://www.sgu.ru/schedule/ifg/do/404",
+                  "https://www.sgu.ru/schedule/ifg/do/411",
+                  "https://www.sgu.ru/schedule/ifg/do/412",
+                  "https://www.sgu.ru/schedule/ifg/do/421",
+                  "https://www.sgu.ru/schedule/ifg/do/422",
+                  "https://www.sgu.ru/schedule/ifg/do/423",
+                  "https://www.sgu.ru/schedule/ifg/do/431",
+                  "https://www.sgu.ru/schedule/ifg/do/432",
+                  "https://www.sgu.ru/schedule/ifg/do/441"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Магистратура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "151",
+                  "152",
+                  "153",
+                  "154",
+                  "155",
+                  "156",
+                  "157"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/do/151",
+                  "https://www.sgu.ru/schedule/ifg/do/152",
+                  "https://www.sgu.ru/schedule/ifg/do/153",
+                  "https://www.sgu.ru/schedule/ifg/do/154",
+                  "https://www.sgu.ru/schedule/ifg/do/155",
+                  "https://www.sgu.ru/schedule/ifg/do/156",
+                  "https://www.sgu.ru/schedule/ifg/do/157"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "251",
+                  "252",
+                  "253",
+                  "254",
+                  "255",
+                  "256",
+                  "257"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/do/251",
+                  "https://www.sgu.ru/schedule/ifg/do/252",
+                  "https://www.sgu.ru/schedule/ifg/do/253",
+                  "https://www.sgu.ru/schedule/ifg/do/254",
+                  "https://www.sgu.ru/schedule/ifg/do/255",
+                  "https://www.sgu.ru/schedule/ifg/do/256",
+                  "https://www.sgu.ru/schedule/ifg/do/257"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Аспирантура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "161",
+                  "162",
+                  "163",
+                  "164"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/do/161",
+                  "https://www.sgu.ru/schedule/ifg/do/162",
+                  "https://www.sgu.ru/schedule/ifg/do/163",
+                  "https://www.sgu.ru/schedule/ifg/do/164"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "261 ",
+                  "262",
+                  "263",
+                  "264"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/do/261",
+                  "https://www.sgu.ru/schedule/ifg/do/262",
+                  "https://www.sgu.ru/schedule/ifg/do/263",
+                  "https://www.sgu.ru/schedule/ifg/do/264"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "361",
+                  "362",
+                  "363",
+                  "364"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/do/361",
+                  "https://www.sgu.ru/schedule/ifg/do/362",
+                  "https://www.sgu.ru/schedule/ifg/do/363",
+                  "https://www.sgu.ru/schedule/ifg/do/364"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "form": "Заочная форма обучения",
+    "group_types": [
+      {
+        "group_type": "Бакалавриат",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "111",
+                  "112",
+                  "113",
+                  "121"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/zo/111",
+                  "https://www.sgu.ru/schedule/ifg/zo/112",
+                  "https://www.sgu.ru/schedule/ifg/zo/113",
+                  "https://www.sgu.ru/schedule/ifg/zo/121"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "211",
+                  "212",
+                  "213",
+                  "221"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/zo/211",
+                  "https://www.sgu.ru/schedule/ifg/zo/212",
+                  "https://www.sgu.ru/schedule/ifg/zo/213",
+                  "https://www.sgu.ru/schedule/ifg/zo/221"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "311",
+                  "312",
+                  "313",
+                  "321"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/zo/311",
+                  "https://www.sgu.ru/schedule/ifg/zo/312",
+                  "https://www.sgu.ru/schedule/ifg/zo/313",
+                  "https://www.sgu.ru/schedule/ifg/zo/321"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "411",
+                  "412",
+                  "413",
+                  "421"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/zo/411",
+                  "https://www.sgu.ru/schedule/ifg/zo/412",
+                  "https://www.sgu.ru/schedule/ifg/zo/413",
+                  "https://www.sgu.ru/schedule/ifg/zo/421"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "5 курс:",
+            "groups": [
+              {
+                "number": [
+                  "511",
+                  "512",
+                  "513",
+                  "521"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/ifg/zo/511",
+                  "https://www.sgu.ru/schedule/ifg/zo/512",
+                  "https://www.sgu.ru/schedule/ifg/zo/513",
+                  "https://www.sgu.ru/schedule/ifg/zo/521"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

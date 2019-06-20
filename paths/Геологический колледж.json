@@ -1,0 +1,136 @@
+[
+  {
+    "form": "Дневная форма обучения",
+    "group_types": [
+      {
+        "group_type": "1 курс:",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "1111",
+                  "1112",
+                  "1113",
+                  "1114",
+                  "1181",
+                  "2131",
+                  "1171",
+                  "2142",
+                  "2151",
+                  "2161"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/kgl/do/1111",
+                  "https://www.sgu.ru/schedule/kgl/do/1112",
+                  "https://www.sgu.ru/schedule/kgl/do/1113",
+                  "https://www.sgu.ru/schedule/kgl/do/1114",
+                  "https://www.sgu.ru/schedule/kgl/do/1181",
+                  "https://www.sgu.ru/schedule/kgl/do/131",
+                  "https://www.sgu.ru/schedule/kgl/do/171",
+                  "https://www.sgu.ru/schedule/kgl/do/2142",
+                  "https://www.sgu.ru/schedule/kgl/do/2151",
+                  "https://www.sgu.ru/schedule/kgl/do/2161"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "1211",
+                  "1212",
+                  "1214",
+                  "1271",
+                  "1281",
+                  "2221",
+                  "2222",
+                  "2242",
+                  "2251",
+                  "2231"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/kgl/do/1211",
+                  "https://www.sgu.ru/schedule/kgl/do/1212",
+                  "https://www.sgu.ru/schedule/kgl/do/1214",
+                  "https://www.sgu.ru/schedule/kgl/do/1271",
+                  "https://www.sgu.ru/schedule/kgl/do/1281",
+                  "https://www.sgu.ru/schedule/kgl/do/2221",
+                  "https://www.sgu.ru/schedule/kgl/do/2222",
+                  "https://www.sgu.ru/schedule/kgl/do/2242",
+                  "https://www.sgu.ru/schedule/kgl/do/2251",
+                  "https://www.sgu.ru/schedule/kgl/do/231"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "1311",
+                  "1312",
+                  "1313",
+                  "1371",
+                  "1381",
+                  "2321",
+                  "2322",
+                  "2331",
+                  "2332",
+                  "2342",
+                  "2343",
+                  "2351"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/kgl/do/1311",
+                  "https://www.sgu.ru/schedule/kgl/do/1312",
+                  "https://www.sgu.ru/schedule/kgl/do/1313",
+                  "https://www.sgu.ru/schedule/kgl/do/1371",
+                  "https://www.sgu.ru/schedule/kgl/do/1381",
+                  "https://www.sgu.ru/schedule/kgl/do/2321",
+                  "https://www.sgu.ru/schedule/kgl/do/2322",
+                  "https://www.sgu.ru/schedule/kgl/do/2331",
+                  "https://www.sgu.ru/schedule/kgl/do/2332",
+                  "https://www.sgu.ru/schedule/kgl/do/2342",
+                  "https://www.sgu.ru/schedule/kgl/do/2343",
+                  "https://www.sgu.ru/schedule/kgl/do/2351"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "1411",
+                  "1412",
+                  "1471",
+                  "1481",
+                  "2421",
+                  "2431",
+                  "2432",
+                  "2451"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/kgl/do/1411",
+                  "https://www.sgu.ru/schedule/kgl/do/1412",
+                  "https://www.sgu.ru/schedule/kgl/do/1471",
+                  "https://www.sgu.ru/schedule/kgl/do/1481",
+                  "https://www.sgu.ru/schedule/kgl/do/2421",
+                  "https://www.sgu.ru/schedule/kgl/do/2431",
+                  "https://www.sgu.ru/schedule/kgl/do/2432",
+                  "https://www.sgu.ru/schedule/kgl/do/2451"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

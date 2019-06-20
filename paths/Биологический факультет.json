@@ -1,0 +1,328 @@
+[
+  {
+    "form": "Дневная форма обучения",
+    "group_types": [
+      {
+        "group_type": "Специалитет",
+        "courses": [
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "331"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/331"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "431"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/431"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "5 курс:",
+            "groups": [
+              {
+                "number": [
+                  "531"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/531"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Бакалавриат",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "111",
+                  "112",
+                  "121",
+                  "122",
+                  "123",
+                  "124"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/111",
+                  "https://www.sgu.ru/schedule/bf/do/112",
+                  "https://www.sgu.ru/schedule/bf/do/121",
+                  "https://www.sgu.ru/schedule/bf/do/122",
+                  "https://www.sgu.ru/schedule/bf/do/123",
+                  "https://www.sgu.ru/schedule/bf/do/124"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "211",
+                  "212",
+                  "221",
+                  "222",
+                  "223",
+                  "224"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/211",
+                  "https://www.sgu.ru/schedule/bf/do/212",
+                  "https://www.sgu.ru/schedule/bf/do/221",
+                  "https://www.sgu.ru/schedule/bf/do/222",
+                  "https://www.sgu.ru/schedule/bf/do/223",
+                  "https://www.sgu.ru/schedule/bf/do/224"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "311",
+                  "312",
+                  "321",
+                  "322",
+                  "323",
+                  "324"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/311",
+                  "https://www.sgu.ru/schedule/bf/do/312",
+                  "https://www.sgu.ru/schedule/bf/do/321",
+                  "https://www.sgu.ru/schedule/bf/do/322",
+                  "https://www.sgu.ru/schedule/bf/do/323",
+                  "https://www.sgu.ru/schedule/bf/do/324"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "411",
+                  "421",
+                  "422",
+                  "423",
+                  "424"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/411",
+                  "https://www.sgu.ru/schedule/bf/do/421",
+                  "https://www.sgu.ru/schedule/bf/do/422",
+                  "https://www.sgu.ru/schedule/bf/do/423",
+                  "https://www.sgu.ru/schedule/bf/do/424"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Магистратура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "141",
+                  "142",
+                  "151"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/141",
+                  "https://www.sgu.ru/schedule/bf/do/142",
+                  "https://www.sgu.ru/schedule/bf/do/151"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "241",
+                  "242",
+                  "251"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/241",
+                  "https://www.sgu.ru/schedule/bf/do/242",
+                  "https://www.sgu.ru/schedule/bf/do/251"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Аспирантура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "161"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/161"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "261"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/do/261"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "form": "Заочная форма обучения",
+    "group_types": [
+      {
+        "group_type": "Бакалавриат",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "111",
+                  "112"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/zo/111",
+                  "https://www.sgu.ru/schedule/bf/zo/112"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "211",
+                  "212"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/zo/211",
+                  "https://www.sgu.ru/schedule/bf/zo/212"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "3 курс:",
+            "groups": [
+              {
+                "number": [
+                  "311",
+                  "312"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/zo/311",
+                  "https://www.sgu.ru/schedule/bf/zo/312"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "4 курс:",
+            "groups": [
+              {
+                "number": [
+                  "411"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/zo/411"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "5 курс:",
+            "groups": [
+              {
+                "number": [
+                  "511"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/zo/511"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group_type": "Магистратура",
+        "courses": [
+          {
+            "course": "1 курс:",
+            "groups": [
+              {
+                "number": [
+                  "151"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/zo/151"
+                ]
+              }
+            ]
+          },
+          {
+            "course": "2 курс:",
+            "groups": [
+              {
+                "number": [
+                  "251"
+                ],
+                "path": [
+                  "https://www.sgu.ru/schedule/bf/zo/251"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
