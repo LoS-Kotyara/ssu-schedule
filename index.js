@@ -10,16 +10,16 @@ const { def } = require("./Scenes/def");
 const { professor } = require("./Scenes/professor");
 
 const SocksAgent = require('socks5-https-client/lib/Agent');
-/* const socksAgent = new SocksAgent({
+const socksAgent = new SocksAgent({
   socksHost: config.host,
   socksPort: config.port,
   socksUsername: config.login,
   socksPassword: config.psswd,
-}); */
+});
 
-const bot = new Telegraf(config.BOT_TOKEN, /* {
+const bot = new Telegraf(config.BOT_TOKEN, {
     telegram: { agent: socksAgent }
-} */);
+});
 
 let date = new Date();
 
@@ -65,7 +65,7 @@ bot.on('message', ctx => {
 bot.launch();
 
 // Отлавливание ошибок
-/* bot.catch((err) => {
+bot.catch((err) => {
     ctx.reply("Произошла ошибка");  
     return ctx.scene.enter("def");
-}); */
+});
