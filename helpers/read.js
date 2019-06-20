@@ -74,7 +74,7 @@ function read(url, day, callback) {
         }
         // Преобразуем данные каждого дня в строку
         timeString = [];
-        //console.log(time[day]);
+        //
         if (time[day].includes(undefined))
             return callback(null, "Сегодня пар нет");
         for (let i = 0; i < 8; i++) {
@@ -98,7 +98,7 @@ function read(url, day, callback) {
                 timeString.push(str);
             });
         }
-        //console.log(timeString);
+        //
         callback(null, timeString);
     });
 }

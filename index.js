@@ -29,7 +29,7 @@ setInterval(() => {
     if (date.getUTCHours() === 0) {
         getFacultiesList();
         setTimeout(() => {
-            console.log('Update complited');
+            
         }, 3600000);
 
     }

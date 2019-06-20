@@ -29,13 +29,13 @@ function getFacultiesList() {
         .then(async function (res) {
             await res.forEach(async faculty => {
                 await readFacultyInfo(faculty);
-                console.log(faculty.name + ' updated');
+                
             });
-            console.log("Update complited");
+            
         })
 
         .catch(function (err) {
-            console.log(err);
+            
         });
 }
 

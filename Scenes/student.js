@@ -170,7 +170,7 @@ const student = new WizardScene(
         if (ctx.wizard.state.dayAns == "На сегодня") { weekday = weekdays[date.getDay()][0]; }
         else {
             ctx.wizard.state.variables = weekdays.slice(1).concat([["Назад"]]);
-            console.log(ctx.wizard.state.variables)
+            
             ctx.reply('На какой день недели Вам нужно расписание', Markup.keyboard(ctx.wizard.state.variables).resize().extra());
             return ctx.wizard.selectStep(8);
         }
@@ -226,7 +226,7 @@ const student = new WizardScene(
 
     async (ctx) => {
         ctx.wizard.state.weekday = ctx.message.text;
-        console.log("im here")
+        
         if (ctx.wizard.state.weekday === "Назад") {
             ctx.reply('Вы выбрали "Назад"');
             ctx.reply('Выберите группу', Markup.keyboard(ctx.wizard.state.groups).resize().extra());
