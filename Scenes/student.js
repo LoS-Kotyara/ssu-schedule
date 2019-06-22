@@ -1,7 +1,7 @@
-const Stage = require("../node_modules/telegraf/stage"); // не помню
-const WizardScene = require("../node_modules/telegraf/scenes/wizard"); // Многоуровневые вопросы
-const { enter, leave } = Stage; // Не помню
-const Markup = require("../node_modules/telegraf/markup"); // Настройки клавиатуры, форматирования текста и тп
+const Stage            = require("../node_modules/telegraf/stage");
+const WizardScene      = require("../node_modules/telegraf/scenes/wizard");
+const { enter, leave } = Stage;
+const Markup           = require("../node_modules/telegraf/markup");
 
 const {
   readFacultiesList,
@@ -199,7 +199,7 @@ const student = new WizardScene(
     );
 
     ctx.wizard.state.groups = [];
-    ctx.wizard.state.paths = [];
+    ctx.wizard.state.paths  = [];
 
     ctx.wizard.state.temp.number.forEach(element => {
       ctx.wizard.state.groups.push(element);
