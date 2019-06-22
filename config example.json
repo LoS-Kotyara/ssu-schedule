@@ -1,7 +1,7 @@
 {
   "BOT_TOKEN": "",
-  "host" : "",
-  "port" : "",
-  "login" : "",
-  "psswd" : ""
+  "host": "",
+  "port": "",
+  "login": "",
+  "psswd": ""
 }
