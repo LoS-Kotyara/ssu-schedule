@@ -19,7 +19,7 @@
     "nightmare": "^3.0.2",
     "node-table-to-csv": "^0.1.0",
     "node-telegram-bot-api": "^0.30.0",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "request": "^2.88.0",
     "socks5-https-client": "^1.2.1",
     "telegraf": "^3.29.0",
